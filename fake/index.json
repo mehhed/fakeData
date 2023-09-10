@@ -1,1 +1,4 @@
-[{"user":"example1","password":"password1"},{"user":"example2","password":"password2"},{"user":"01933995057","password":"ghdfghdfgh"},{"user":"01933995057","password":"gjkfkjesrg"},{"user":"mehedi@gmail.com","password":"ghdhg"},{"user":"01933995057","password":"sdgsgfds"}]
+[
+  {"user":"example1","password":"password1"},
+  {"user":"example2","password":"password2"},
+]
