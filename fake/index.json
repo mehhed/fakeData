@@ -1,1 +1,4 @@
-[object Object]
+[
+    {"user": "example1", "password": "password1"},
+    {"user": "example2", "password": "password2"}
+]
